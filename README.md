@@ -15,7 +15,7 @@ If you find the benchmarks useful for your research, you can cite
 ```
 @article{wan2023polar,
   title={POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems},
-  author={Wan, Yixuan and Zhou, Weichao and Fan, Jiameng and Wang, Zhilu and Li, Jiajun and Chen, Xin and Huang, Chao and Li, Wenchao and Zhu, Qi},
+  author={Wang, Yixuan and Zhou, Weichao and Fan, Jiameng and Wang, Zhilu and Li, Jiajun and Chen, Xin and Huang, Chao and Li, Wenchao and Zhu, Qi},
   journal={arXiv preprint arXiv:2304.01218},
   year={2023}
 },
